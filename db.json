@@ -1,14 +1,56 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "main_data" : {
+    "actualite" : {
+      "-Lixo5MCli3hzZA995xB" : {
+        "auteur" : "Cheikh Dieng GUEYE",
+        "contenur" : "J'initialise ma base de donnée avec des données tests utilisées pour faire du remplissage mais qui peuvent aussi jouer sur le design du prototype de l'application",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
+        "titre" : "Premier titre d'actualité",
+        "type" : "actualite"
+      },
+      "-LixofRo1ZTN6c_-vjor" : {
+        "auteur" : "Lamine SANE",
+        "contenur" : "La plupart des gens pensent que le role du pharmacien se limite à vendre des médicaments. Cette fausse perception du pharmacien poussent les gens à se tromper sur leur véritable utilité au sein de la société",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
+        "titre" : "La pharmacie, un domaine à découvrir",
+        "type" : "actualite"
+      },
+      "-Lixp2E0ccctVSvDjb0L" : {
+        "auteur" : "Carolle LOCOH",
+        "contenur" : "Prendre des médicaments de gauche à droite sans consulter un médecin fait partie du quotidien de pas mal de gens qui s'autoproclame docteur de soi",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
+        "titre" : "L'overdose, un danger présent",
+        "type" : "actualite"
+      },
+      "-Lixqr8bIv3YBjojrgsO" : {
+        "auteur" : "Aissatou KA",
+        "contenur" : "Organe offrant le sens de la vue est d'une importance capitale dans la vie de toute personne d'où la nécéssité de bien en prendre soins",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
+        "titre" : "Comment prendre soin de ses yeux",
+        "type" : "actualite"
+      }
+    },
+    "produits" : {
+      "-LixxUoje1zXNWFkRs_K" : {
+        "description" : "Organe offrant le sens de la vue est d'une importance capitale dans la vie de toute personne d'où la nécéssité de bien en prendre soins",
+        "nom_produit" : "Paracetamol",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
+        "prix" : "2500",
+        "vedette" : true
+      },
+      "-LixxnOewq0IccpWB5iB" : {
+        "description" : "EFFERALGAN : EFFERALGAN 500 mg est indiqué dans le traitement symptomatique des douleurs d'intensité légère à modérée et/ou des ...",
+        "nom_produit" : "Effaralgan",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
+        "prix" : "6700",
+        "vedette" : true
+      },
+      "-Lixy5VbkyOaVbeB0AKN" : {
+        "description" : "Panaldine is a medicine available in a number of countries worldwide. A list of US medications equivalent to Panaldine is available on the Drugs.com website.",
+        "nom_produit" : "Panaldine",
+        "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
+        "prix" : "10000"
+      }
+    }
   }
 }
