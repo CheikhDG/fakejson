@@ -32,7 +32,18 @@
         "type" : "evenement",
         "date_debut" : "19",
         "date_fin" : "23 fevrier 2019",
-        "lieu" : "Dakar"
+        "lieu" : "Dakar",
+        "date_publication" : "05/07/2019"
+      },{
+        "auteur" : "Khadija DIALLO",
+        "contenur" : "Les médicaments jouent un rôle important dans le traitement des conditions et des maladies des patients. Cependant, lorsqu'ils ne sont plus nécessaires ou qu'ils expirent, il est important de les éliminer correctement pour éviter tout risque de préjudice pour les autres. Les médicaments inutilisés ou périmés laissés dans le ménage peuvent tomber entre de mauvaises mains et sont malheureusement devenus la cible d'abus et de vol. La MPA organise un événement annuel d'élimination des médicaments en septembre afin de sensibiliser le public à cette question et de donner au public la possibilité d'éliminer les médicaments en toute sécurité. En outre, de nombreuses autres options sont disponibles pour disposer des médicaments de manière sûre et responsable, dont certaines sont détaillées ci-dessous.",
+        "photo" : "https://i.cbc.ca/1.4876798.1540425261!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/nayan-patel-and-donna-gutteridge.jpg",
+        "titre" : "Pharmacies selling DNA tests to help patients pick best medications",
+        "type" : "blog",
+        "date_debut" : "19",
+        "date_fin" : "23 fevrier 2019",
+        "lieu" : "Dakar",
+        "date_publication" : "05/07/2019"
       }
     ],
     "produits" : [
