@@ -43,7 +43,8 @@
         "date_debut" : "19",
         "date_fin" : "23 fevrier 2019",
         "lieu" : "Dakar",
-        "date_publication" : "05/07/2019"
+        "date_publication" : "05/07/2019",
+        "alaune":true
       }
     ],
     "produits" : [
