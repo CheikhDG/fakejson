@@ -1,11 +1,12 @@
 {
-    "actualite" : [{
+    "actualite" : [
+        {
         "auteur" : "Cheikh Dieng GUEYE",
         "contenur" : "J'initialise ma base de donnée avec des données tests utilisées pour faire du remplissage mais qui peuvent aussi jouer sur le design du prototype de l'application",
         "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
         "titre" : "Premier titre d'actualité",
         "type" : "actualite"
-      }, {
+      },{
         "auteur" : "Lamine SANE",
         "contenur" : "La plupart des gens pensent que le role du pharmacien se limite à vendre des médicaments. Cette fausse perception du pharmacien poussent les gens à se tromper sur leur véritable utilité au sein de la société",
         "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO78dJZ8osIzcWZ7AP2Cl0a5BzVKmuOIvDZFaqek3X1qmB1MjSng",
@@ -25,19 +26,20 @@
         "type" : "actualite"
       }
     ],
-    "produits" : [ {
+    "produits" : [
+        {
         "description" : "Organe offrant le sens de la vue est d'une importance capitale dans la vie de toute personne d'où la nécéssité de bien en prendre soins",
         "nom_produit" : "Paracetamol",
         "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
         "prix" : "2500",
         "vedette" : true
-      }, {
+      },{
         "description" : "EFFERALGAN : EFFERALGAN 500 mg est indiqué dans le traitement symptomatique des douleurs d'intensité légère à modérée et/ou des ...",
         "nom_produit" : "Effaralgan",
         "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
         "prix" : "6700",
         "vedette" : true
-      }, {
+      },{
         "description" : "Panaldine is a medicine available in a number of countries worldwide. A list of US medications equivalent to Panaldine is available on the Drugs.com website.",
         "nom_produit" : "Panaldine",
         "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjelHxC743YChtu20Pw1qlWpUCyENHIfFttCKrx3utel9dKr_4",
