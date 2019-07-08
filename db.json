@@ -1,4 +1,10 @@
 {
+    "users" : [
+        {
+        "email":"shakegueye@gmail.com",
+         "password":"chdigu944"
+        }
+    ],
     "actualite" : [
         {
         "auteur" : "Cheikh Dieng GUEYE",
